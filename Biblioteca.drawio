@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T15:32:34.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="L7M0MPj5lAYfUmbF7T40" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-06T15:39:04.827Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mp86iFjCqyuAmr5CLU1r" version="24.6.4" type="github">
   <diagram name="Página-1" id="W8XPM-yQRozsr_15MBXP">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RElPkKA84_Ooh-b24WHe-1" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 44px; line-height: normal; color: rgb(11, 90, 178); -webkit-text-stroke-color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;font-variant-ligatures: no-common-ligatures;&quot; class=&quot;s1&quot;&gt;&lt;b&gt;Sistema de Gestión de Biblioteca&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="660" height="510" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
